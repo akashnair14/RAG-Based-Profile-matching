@@ -16,7 +16,7 @@ Instead of manually reading dozens of resumes or relying only on exact keyword s
 
 ## Project Structure
 
-`
+```text
 ├── data/
 │   ├── resumes/            # Candidate resume files (.txt)
 │   └── job_descriptions/   # Sample job descriptions (.txt)
@@ -28,36 +28,36 @@ Instead of manually reading dozens of resumes or relying only on exact keyword s
 ├── requirements.txt        # Project dependencies
 ├── .env.example            # Sample environment file
 └── README.md
-`
+```
 
 ---
 
 ## Step-by-Step Setup Guide
 
 ### 1. Clone the repository
-`ash
+```bash
 git clone https://github.com/akashnair14/RAG-Based-Profile-matching.git
 cd RAG-Based-Profile-matching
-`
+```
 
 ### 2. Install dependencies
 Make sure you have Python 3.9+ installed. Run:
-`ash
+```bash
 pip install -r requirements.txt
-`
+```
 
 ### 3. (Optional) Set up API Keys
-The project works completely free and locally using sentence-transformers.
+The project works completely free and locally using `sentence-transformers`.
 
 If you want to use OpenAI or OpenRouter embeddings instead:
-1. Copy .env.example to .env:
-   `ash
+1. Copy `.env.example` to `.env`:
+   ```bash
    cp .env.example .env
-   `
-2. Add your API key inside .env:
-   `env
+   ```
+2. Add your API key inside `.env`:
+   ```env
    OPENAI_API_KEY=your_key_here
-   `
+   ```
 
 ---
 
@@ -65,9 +65,9 @@ If you want to use OpenAI or OpenRouter embeddings instead:
 
 ### Option 1: Web Interface (Streamlit)
 The easiest way to use the matcher is through the browser UI:
-`ash
+```bash
 streamlit run app.py
-`
+```
 Open **http://localhost:8501** in your browser. You can select a sample job description or paste your own to see matching candidates immediately.
 
 ---
@@ -75,22 +75,22 @@ Open **http://localhost:8501** in your browser. You can select a sample job desc
 ### Option 2: Command Line
 
 1. **Index all resumes into ChromaDB:**
-   `ash
+   ```bash
    python resume_rag.py
-   `
+   ```
 
 2. **Run the job matcher on a sample job description:**
-   `ash
+   ```bash
    python job_matcher.py
-   `
+   ```
 
 ---
 
 ### Option 3: Jupyter Notebook
 To see experiments, search latency, and score breakdowns:
-`ash
+```bash
 jupyter notebook evaluation.ipynb
-`
+```
 
 ---
 
@@ -98,7 +98,7 @@ jupyter notebook evaluation.ipynb
 
 When matching a job description, the system outputs structured results like this:
 
-`json
+```json
 {
   "job_description": "JOB TITLE: Senior Machine Learning Engineer (RAG & LLMs)...",
   "top_matches": [
@@ -122,4 +122,4 @@ When matching a job description, the system outputs structured results like this
     }
   ]
 }
-`
+```
