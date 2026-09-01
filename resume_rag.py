@@ -82,29 +82,41 @@ class ResumeRAG:
                     model_name="text-embedding-3-small",
                     api_base=base_url if base_url else None
                 )
+                self.collection_name = "resumes_openai"
             except Exception:
                 self.embed_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
                     model_name="sentence-transformers/all-MiniLM-L6-v2"
                 )
+                self.collection_name = "resumes_local"
         else:
             self.embed_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
                 model_name="sentence-transformers/all-MiniLM-L6-v2"
             )
+            self.collection_name = "resumes_local"
 
-        self.collection = self.client.get_or_create_collection(
-            name="resumes_collection",
-            embedding_function=self.embed_fn
-        )
+        try:
+            self.collection = self.client.get_collection(
+                name=self.collection_name,
+                embedding_function=self.embed_fn
+            )
+        except Exception:
+            self.collection = self.client.get_or_create_collection(
+                name=self.collection_name,
+                embedding_function=self.embed_fn
+            )
+            # Auto-index if collection is empty
+            if self.collection.count() == 0:
+                self.index_resumes()
 
     def index_resumes(self):
-        # Clear existing data first
+        # Clear existing collection data for clean index
         try:
-            self.client.delete_collection("resumes_collection")
+            self.client.delete_collection(self.collection_name)
         except Exception:
             pass
 
         self.collection = self.client.get_or_create_collection(
-            name="resumes_collection",
+            name=self.collection_name,
             embedding_function=self.embed_fn
         )
 
