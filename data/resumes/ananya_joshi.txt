@@ -1,0 +1,21 @@
+NAME: Ananya Joshi
+TITLE: Senior Data Analyst
+EXPERIENCE YEARS: 5
+EDUCATION: B.S. in Statistics and Economics
+
+SUMMARY:
+Data Analyst & BI Specialist with 5 years experience delivering actionable business insights, SQL analytics, and interactive dashboards in Tableau and PowerBI.
+
+SKILLS:
+SQL, Python, Tableau, PowerBI, Excel, Snowflake, Statistical Analysis, Pandas
+
+EXPERIENCE:
+Senior Data Analyst | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with SQL and Python.
+- Engineered performant solutions with SQL, Python, Tableau, PowerBI.
+
+EDUCATION:
+- B.S. in Statistics and Economics
+
+PROJECTS:
+- High-impact projects utilizing SQL, Python, Tableau.

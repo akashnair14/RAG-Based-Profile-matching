@@ -1,0 +1,21 @@
+NAME: Priya Sharma
+TITLE: Lead NLP Engineer
+EXPERIENCE YEARS: 5
+EDUCATION: M.S. in Computer Science
+
+SUMMARY:
+Applied AI & NLP Specialist with 5 years experience developing search engines, text generation systems, and conversational AI agents. Built enterprise semantic search using dense vector embeddings and BM25 hybrid ranking.
+
+SKILLS:
+Python, PyTorch, NLP, LangChain, ChromaDB, OpenAI API, HuggingFace, FastAPI
+
+EXPERIENCE:
+Lead NLP Engineer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with Python and PyTorch.
+- Engineered performant solutions with Python, PyTorch, NLP, LangChain.
+
+EDUCATION:
+- M.S. in Computer Science
+
+PROJECTS:
+- High-impact projects utilizing Python, PyTorch, NLP.

@@ -1,0 +1,16 @@
+JOB TITLE: Senior Machine Learning Engineer (RAG & LLMs)
+LOCATION: Remote
+EXPERIENCE REQUIRED: 5+ years
+
+ABOUT THE ROLE:
+We are looking for a Senior Machine Learning Engineer to lead the design and deployment of our enterprise Retrieval-Augmented Generation (RAG) system and semantic search platforms.
+
+MUST-HAVE REQUIREMENTS:
+- 5+ years of hands-on experience in Machine Learning, NLP, and Python.
+- Proven experience with RAG architectures, Vector Databases (ChromaDB, Pinecone, or FAISS), and Embeddings.
+- Strong proficiency in PyTorch, HuggingFace Transformers, LangChain, or LlamaIndex.
+- Experience deploying scalable ML APIs using FastAPI or Docker.
+
+RESPONSIBILITIES:
+- Build and optimize vector search and document indexing pipelines over millions of documents.
+- Evaluate and benchmark retrieval accuracy and latency.

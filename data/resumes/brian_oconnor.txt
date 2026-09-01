@@ -1,0 +1,21 @@
+NAME: Brian O'Connor
+TITLE: Senior Frontend Developer
+EXPERIENCE YEARS: 6
+EDUCATION: B.S. in Computer Science
+
+SUMMARY:
+Senior Frontend Developer with 6 years experience building modern web applications with React, TypeScript, Next.js, and GraphQL. Led frontend of headless e-commerce store.
+
+SKILLS:
+React, TypeScript, Next.js, Tailwind CSS, GraphQL, Redux, Jest
+
+EXPERIENCE:
+Senior Frontend Developer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with React and TypeScript.
+- Engineered performant solutions with React, TypeScript, Next.js, Tailwind CSS.
+
+EDUCATION:
+- B.S. in Computer Science
+
+PROJECTS:
+- High-impact projects utilizing React, TypeScript, Next.js.

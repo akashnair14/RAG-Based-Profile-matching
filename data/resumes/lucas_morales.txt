@@ -1,0 +1,21 @@
+NAME: Lucas Morales
+TITLE: Full Stack Developer
+EXPERIENCE YEARS: 3
+EDUCATION: B.S. in Computer Information Systems
+
+SUMMARY:
+Full Stack Developer with 3 years experience developing web applications using React, Node.js, Express, and PostgreSQL. Developed full-stack SaaS features.
+
+SKILLS:
+JavaScript, TypeScript, React, Node.js, Express.js, PostgreSQL, Docker
+
+EXPERIENCE:
+Full Stack Developer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with JavaScript and TypeScript.
+- Engineered performant solutions with JavaScript, TypeScript, React, Node.js.
+
+EDUCATION:
+- B.S. in Computer Information Systems
+
+PROJECTS:
+- High-impact projects utilizing JavaScript, TypeScript, React.

@@ -1,0 +1,21 @@
+NAME: Vikram Patel
+TITLE: Principal Backend Engineer
+EXPERIENCE YEARS: 9
+EDUCATION: M.S. in Computer Engineering
+
+SUMMARY:
+Principal Backend Engineer with 9+ years experience architecting distributed microservices, high-throughput APIs, and data processing systems in Python, Go, and PostgreSQL.
+
+SKILLS:
+Python, Go, Django, FastAPI, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AWS
+
+EXPERIENCE:
+Principal Backend Engineer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with Python and Go.
+- Engineered performant solutions with Python, Go, Django, FastAPI.
+
+EDUCATION:
+- M.S. in Computer Engineering
+
+PROJECTS:
+- High-impact projects utilizing Python, Go, Django.

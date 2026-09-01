@@ -1,0 +1,17 @@
+﻿# Environment & Secrets
+.env
+*.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# ChromaDB local binaries
+chroma_db/

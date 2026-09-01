@@ -1,0 +1,16 @@
+JOB TITLE: Senior Data Analyst & BI Specialist
+LOCATION: Remote
+EXPERIENCE REQUIRED: 3+ years
+
+ABOUT THE ROLE:
+We are looking for a Senior Data Analyst to turn complex data into actionable business intelligence and dashboards.
+
+MUST-HAVE REQUIREMENTS:
+- 3+ years of experience in data analytics, business intelligence, or reporting.
+- Advanced SQL querying skills (window functions, CTEs).
+- Hands-on expertise building interactive dashboards in Tableau or PowerBI.
+- Proficiency in Python (Pandas, NumPy) for data manipulation.
+
+RESPONSIBILITIES:
+- Partner with stakeholders to build executive KPI dashboards.
+- Write efficient SQL queries to extract data and identify trends.

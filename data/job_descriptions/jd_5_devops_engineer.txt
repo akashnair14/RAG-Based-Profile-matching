@@ -1,0 +1,16 @@
+JOB TITLE: Senior DevOps & Cloud Infrastructure Engineer
+LOCATION: Remote
+EXPERIENCE REQUIRED: 5+ years
+
+ABOUT THE ROLE:
+We are looking for a Senior DevOps & Cloud Infrastructure Engineer to manage our multi-cloud infrastructure and automate CI/CD pipelines.
+
+MUST-HAVE REQUIREMENTS:
+- 5+ years of experience in DevOps, SRE, or Cloud Infrastructure engineering.
+- Deep expertise with Kubernetes, Docker, and container orchestration.
+- Proven experience with Infrastructure-as-Code using Terraform.
+- Strong hands-on experience with AWS cloud services and CI/CD pipelines.
+
+RESPONSIBILITIES:
+- Maintain and scale production Kubernetes clusters.
+- Automate deployment pipelines and manage cloud infrastructure via Terraform.

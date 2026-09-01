@@ -1,0 +1,21 @@
+NAME: James Wilson
+TITLE: Senior DevOps Engineer
+EXPERIENCE YEARS: 7
+EDUCATION: B.S. in Computer Information Technology
+
+SUMMARY:
+Senior DevOps & Cloud Infrastructure Engineer with 7 years experience automating CI/CD pipelines, managing Kubernetes clusters on AWS, and deploying Terraform IaC.
+
+SKILLS:
+Kubernetes, Docker, Terraform, AWS, GCP, CI/CD, Helm, Prometheus, Python
+
+EXPERIENCE:
+Senior DevOps Engineer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with Kubernetes and Docker.
+- Engineered performant solutions with Kubernetes, Docker, Terraform, AWS.
+
+EDUCATION:
+- B.S. in Computer Information Technology
+
+PROJECTS:
+- High-impact projects utilizing Kubernetes, Docker, Terraform.

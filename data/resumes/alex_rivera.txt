@@ -1,0 +1,21 @@
+NAME: Alex Rivera
+TITLE: Senior Machine Learning Engineer
+EXPERIENCE YEARS: 6
+EDUCATION: M.S. in Data Science
+
+SUMMARY:
+Senior ML Engineer with 6 years experience specializing in recommendation systems, semantic search, and MLOps on AWS and GCP. Designed hybrid recommendation engine with vector search embeddings.
+
+SKILLS:
+Python, PyTorch, Scikit-Learn, FastAPI, LangChain, Pinecone, AWS, Docker
+
+EXPERIENCE:
+Senior Machine Learning Engineer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with Python and PyTorch.
+- Engineered performant solutions with Python, PyTorch, Scikit-Learn, FastAPI.
+
+EDUCATION:
+- M.S. in Data Science
+
+PROJECTS:
+- High-impact projects utilizing Python, PyTorch, Scikit-Learn.

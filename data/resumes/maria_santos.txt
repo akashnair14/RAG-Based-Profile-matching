@@ -1,0 +1,21 @@
+NAME: Maria Santos
+TITLE: Lead AI Architect
+EXPERIENCE YEARS: 8
+EDUCATION: M.S. in Artificial Intelligence
+
+SUMMARY:
+Lead AI Engineer with 8 years experience building enterprise RAG systems, embedding pipelines, vector retrieval engines with ChromaDB, and LLM integrations.
+
+SKILLS:
+Python, PyTorch, LangChain, LlamaIndex, ChromaDB, OpenAI API, Pinecone, FastAPI, RAG
+
+EXPERIENCE:
+Lead AI Architect | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with Python and PyTorch.
+- Engineered performant solutions with Python, PyTorch, LangChain, LlamaIndex.
+
+EDUCATION:
+- M.S. in Artificial Intelligence
+
+PROJECTS:
+- High-impact projects utilizing Python, PyTorch, LangChain.

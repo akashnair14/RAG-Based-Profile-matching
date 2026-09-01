@@ -1,0 +1,21 @@
+NAME: Carlos Gomez
+TITLE: Data Engineer
+EXPERIENCE YEARS: 3
+EDUCATION: B.S. in Computer Science
+
+SUMMARY:
+Data Engineer with 3 years experience building reliable data ingestion pipelines and maintaining cloud data lakes with Python and Spark.
+
+SKILLS:
+Python, SQL, PySpark, Airflow, AWS S3, Snowflake, dbt, PostgreSQL
+
+EXPERIENCE:
+Data Engineer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with Python and SQL.
+- Engineered performant solutions with Python, SQL, PySpark, Airflow.
+
+EDUCATION:
+- B.S. in Computer Science
+
+PROJECTS:
+- High-impact projects utilizing Python, SQL, PySpark.

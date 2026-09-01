@@ -1,0 +1,16 @@
+JOB TITLE: Senior Backend Engineer (Python & Distributed Systems)
+LOCATION: Remote
+EXPERIENCE REQUIRED: 5+ years
+
+ABOUT THE ROLE:
+We are looking for a Senior Backend Engineer to design, build, and scale our core backend microservices and REST APIs.
+
+MUST-HAVE REQUIREMENTS:
+- 5+ years of backend development experience with Python (FastAPI, Django).
+- Strong expertise in relational databases (PostgreSQL), SQL optimization.
+- Experience with asynchronous task queues (Celery, Redis).
+- Hands-on experience with Docker and AWS cloud environments.
+
+RESPONSIBILITIES:
+- Design and maintain highly scalable, secure RESTful APIs.
+- Architect database schemas and background worker queues.

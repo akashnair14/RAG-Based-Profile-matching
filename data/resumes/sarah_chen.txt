@@ -1,0 +1,21 @@
+NAME: Dr. Sarah Chen
+TITLE: Staff Machine Learning Engineer
+EXPERIENCE YEARS: 8
+EDUCATION: Ph.D. in Computer Science
+
+SUMMARY:
+Staff ML Engineer with 8+ years experience designing scalable deep learning systems, Large Language Models (LLMs), and RAG architectures in enterprise production environments. Built RAG pipeline indexing 10M+ documents with ChromaDB and OpenAI.
+
+SKILLS:
+Python, PyTorch, LangChain, ChromaDB, RAG, LLMs, Docker, Kubernetes
+
+EXPERIENCE:
+Staff Machine Learning Engineer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with Python and PyTorch.
+- Engineered performant solutions with Python, PyTorch, LangChain, ChromaDB.
+
+EDUCATION:
+- Ph.D. in Computer Science
+
+PROJECTS:
+- High-impact projects utilizing Python, PyTorch, LangChain.

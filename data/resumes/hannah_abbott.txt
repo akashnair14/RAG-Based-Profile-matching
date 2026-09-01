@@ -1,0 +1,21 @@
+NAME: Hannah Abbott
+TITLE: Frontend Developer
+EXPERIENCE YEARS: 3
+EDUCATION: B.S. in Digital Media
+
+SUMMARY:
+Frontend Web Developer with 3 years experience building accessible, responsive web interfaces with React, Next.js, and modern Tailwind CSS.
+
+SKILLS:
+React, JavaScript, TypeScript, Next.js, Tailwind CSS, Redux, HTML5, CSS3
+
+EXPERIENCE:
+Frontend Developer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with React and JavaScript.
+- Engineered performant solutions with React, JavaScript, TypeScript, Next.js.
+
+EDUCATION:
+- B.S. in Digital Media
+
+PROJECTS:
+- High-impact projects utilizing React, JavaScript, TypeScript.

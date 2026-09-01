@@ -1,0 +1,21 @@
+NAME: Amina Touré
+TITLE: Cross-Platform Mobile Developer
+EXPERIENCE YEARS: 4
+EDUCATION: B.S. in Computer Science
+
+SUMMARY:
+Cross-Platform Mobile Developer with 4 years experience delivering performant Flutter and Android applications with Firebase and clean architecture.
+
+SKILLS:
+Flutter, Dart, Kotlin, Android SDK, Firebase, SQLite, REST APIs
+
+EXPERIENCE:
+Cross-Platform Mobile Developer | Tech Enterprise (2020 - Present)
+- Led key software and system engineering initiatives with Flutter and Dart.
+- Engineered performant solutions with Flutter, Dart, Kotlin, Android SDK.
+
+EDUCATION:
+- B.S. in Computer Science
+
+PROJECTS:
+- High-impact projects utilizing Flutter, Dart, Kotlin.
